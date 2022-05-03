@@ -1,4 +1,4 @@
-import styles from '../CSS/App.css';
+import styles from '../CSS/App.module.css';
 import bg_banner from '../img/banner-bg.jpg';
 
 function Banner(){
